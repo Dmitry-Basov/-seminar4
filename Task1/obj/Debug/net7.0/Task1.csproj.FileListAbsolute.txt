@@ -1,0 +1,14 @@
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\Dmitriy\Desktop\C#\seminar4\Task1\obj\Debug\net7.0\ref\Task1.dll
